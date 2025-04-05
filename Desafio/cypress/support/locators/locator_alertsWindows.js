@@ -1,6 +1,6 @@
-export const locator_forms = {
+export const locator_alertsWindows = {
     btnBrowserWindows: '//span[contains(., "Browser Windows")]',
     btnNewWindow: 'button[id="windowButton"]',
-    popupNewPage: 'h1[id="sampleHeading"]',
+    popupNewPage: 'h1[id="sampleHeading"]'
     
 };

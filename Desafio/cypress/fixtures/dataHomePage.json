@@ -1,4 +1,7 @@
 {
   "option_Forms": "Forms",
-  "option_Alerts": "Alerts, Frame & Windows"
+  "option_Alerts": "Alerts, Frame & Windows",
+  "option_Elements": "Elements",
+  "option_Widgets": "Widgets",
+  "option_Interactions": "Interactions"
 }

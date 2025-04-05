@@ -23,3 +23,10 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+// Importação de bibliotecas externas
+require('@4tw/cypress-drag-drop');
+
+Cypress.Commands.add('exampleCommand', () => {
+  cy.log('Este é um comando personalizado!');
+});
